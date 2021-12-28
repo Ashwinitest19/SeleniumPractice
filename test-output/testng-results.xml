@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20393" started-at="2021-12-28T03:16:33Z" finished-at="2021-12-28T03:16:53Z">
+  <suite name="Default suite" duration-ms="19239" started-at="2021-12-28T09:41:42Z" finished-at="2021-12-28T09:42:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20393" started-at="2021-12-28T03:16:33Z" finished-at="2021-12-28T03:16:53Z">
+    <test name="Default test" duration-ms="19239" started-at="2021-12-28T09:41:42Z" finished-at="2021-12-28T09:42:01Z">
       <class name="testCases.TC_001_Login">
-        <test-method status="PASS" signature="loginHRM()[pri:0, instance:testCases.TC_001_Login@68be2bc2]" name="loginHRM" duration-ms="20347" started-at="2021-12-28T03:16:33Z" finished-at="2021-12-28T03:16:53Z">
+        <test-method status="PASS" signature="loginHRM()[pri:0, instance:testCases.TC_001_Login@68be2bc2]" name="loginHRM" duration-ms="19196" started-at="2021-12-28T09:41:42Z" finished-at="2021-12-28T09:42:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginHRM -->
